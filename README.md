@@ -119,6 +119,10 @@ If you encounter any problems or have suggestions, please open an issue in the r
 3. Use the browser's element inspector to find the most reliable selectors
 4. Consider page load state when clicking multiple elements
 
+## Privacy Policy
+
+Please refer to our [Privacy Policy](PRIVACY_POLICY.md) for more information.
+
 ---
 
 Made by @eduardo-calzado with ❤️ for the Chrome community
